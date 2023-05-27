@@ -1,3 +1,6 @@
+//Just trying out a commit message as I continue to learn Git
+
+
 import java.util.Scanner;
 
 class SumCalculator {
